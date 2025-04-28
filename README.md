@@ -37,7 +37,7 @@ O goimports é uma ferramenta que:
 - ```@latest``` garante a instalação mais recente da ferramenta.
 - Observação: dento de um 'go.mod' pode rodar o ```go install``` sem a necessidade do ```@latest```
 - Como usar: ```goimports -w helloworld.go```
-- Documentação: [goimports](https://pages.github.com/).
+- Documentação: [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports).
 
 # Observação
 Este projeto é de estudo e aprendizado contínuo. Atualizações serão feitas conforme a evolução na leitura do livro e a realização dos exercícios.
